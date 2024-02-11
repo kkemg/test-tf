@@ -19,7 +19,10 @@ Create a text file (no extension) named config. In this file you should have the
 
 Clone the repo 
 
-Use the following commands
+Use the following commands to run tf 
+
 terraform init
+
 terraform plan -var-file variables.tfvars
+
 teraform apply -var-file variables.tfvars
