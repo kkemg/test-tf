@@ -15,7 +15,8 @@
             aws_secret_access_key = <Your secret key>
 
 - Create a text file (no extension) named config. In this file you should have the following text:
-        [default]
+  
+          [default]
 
 - Clone the repo 
 
